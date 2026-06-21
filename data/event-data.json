@@ -1,0 +1,777 @@
+{
+    "HEADLINE3": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline",
+        "D": "fadeInUp",
+        "A": "1s"
+    },
+    "HEADLINE4": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline"
+    },
+    "HEADLINE5": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline",
+        "D": "fadeInUp",
+        "A": "1s"
+    },
+    "HEADLINE7": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline",
+        "D": "fadeInUp",
+        "A": "1s"
+    },
+    "BOX3": {
+        "a": "box",
+        "D": "fadeInLeft",
+        "A": "1s"
+    },
+    "BOX6": {
+        "a": "box",
+        "D": "fadeInRight",
+        "A": "1s"
+    },
+    "BOX7": {
+        "a": "box",
+        "D": "flipInX",
+        "A": "1s"
+    },
+    "HEADLINE69": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline",
+        "D": "pulse",
+        "A": "1s"
+    },
+    "IMAGE13": {
+        "a": "image",
+        "D": "fadeInUp",
+        "A": "1s"
+    },
+    "HEADLINE70": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline"
+    },
+    "HEADLINE71": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline"
+    },
+    "GROUP11": {
+        "a": "group",
+        "D": "fadeInRight",
+        "A": "1s"
+    },
+    "HEADLINE76": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline"
+    },
+    "HEADLINE77": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline"
+    },
+    "GROUP13": {
+        "a": "group",
+        "D": "fadeInRight",
+        "A": "1s"
+    },
+    "HEADLINE79": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline"
+    },
+    "HEADLINE80": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline"
+    },
+    "GROUP14": {
+        "a": "group",
+        "D": "fadeInRight",
+        "A": "1s"
+    },
+    "IMAGE16": {
+        "a": "image",
+        "D": "fadeInUp",
+        "A": "1s"
+    },
+    "GALLERY1": {
+        "a": "gallery",
+        "ah": true,
+        "ae": 2
+    },
+    "HEADLINE107": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline",
+        "D": "fadeInUp",
+        "A": "1s"
+    },
+    "COUNTDOWN_ITEM1": {
+        "a": "countdown_item",
+        "bY": "day"
+    },
+    "COUNTDOWN_ITEM2": {
+        "a": "countdown_item",
+        "bY": "hour"
+    },
+    "COUNTDOWN_ITEM3": {
+        "a": "countdown_item",
+        "bY": "minute"
+    },
+    "COUNTDOWN_ITEM4": {
+        "a": "countdown_item",
+        "bY": "seconds"
+    },
+    "COUNTDOWN1": {
+        "a": "countdown",
+        "bX": "endtime",
+        "bT": 1783047600000
+    },
+    "HEADLINE108": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline"
+    },
+    "HEADLINE109": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline"
+    },
+    "HEADLINE110": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline"
+    },
+    "HEADLINE111": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline",
+        "D": "fadeInUp",
+        "A": "1s"
+    },
+    "HEADLINE112": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline",
+        "D": "fadeInUp",
+        "A": "1s"
+    },
+    "HEADLINE114": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline"
+    },
+    "HEADLINE117": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline"
+    },
+    "HEADLINE119": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline"
+    },
+    "HEADLINE122": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline",
+        "D": "fadeInUp",
+        "A": "1s"
+    },
+    "HEADLINE123": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline",
+        "D": "fadeInUp",
+        "A": "1s"
+    },
+    "POPUP1": {
+        "a": "popup",
+        "X": "default",
+        "U": "background-color: rgba(0, 0, 0, 0.5);"
+    },
+    "PARAGRAPH1": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "paragraph"
+    },
+    "PARAGRAPH2": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "paragraph"
+    },
+    "GROUP39": {
+        "a": "group",
+        "D": "fadeInUp",
+        "A": "1s"
+    },
+    "IMAGE43": {
+        "a": "image",
+        "D": "fadeInUp",
+        "A": "1s"
+    },
+    "HEADLINE143": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline"
+    },
+    "HEADLINE144": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline"
+    },
+    "HEADLINE145": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline"
+    },
+    "HEADLINE146": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline"
+    },
+    "HEADLINE147": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline"
+    },
+    "HEADLINE148": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline"
+    },
+    "HEADLINE149": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline"
+    },
+    "HEADLINE150": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline"
+    },
+    "HEADLINE151": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline"
+    },
+    "HEADLINE152": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline"
+    },
+    "HEADLINE153": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline"
+    },
+    "HEADLINE154": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline"
+    },
+    "HEADLINE156": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline"
+    },
+    "HEADLINE157": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline"
+    },
+    "HEADLINE158": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline"
+    },
+    "HEADLINE159": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline"
+    },
+    "HEADLINE160": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline"
+    },
+    "HEADLINE161": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline"
+    },
+    "HEADLINE162": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline"
+    },
+    "HEADLINE163": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline"
+    },
+    "HEADLINE164": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline"
+    },
+    "HEADLINE165": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline"
+    },
+    "HEADLINE166": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline"
+    },
+    "HEADLINE167": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline"
+    },
+    "HEADLINE168": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline"
+    },
+    "HEADLINE169": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline"
+    },
+    "HEADLINE170": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline"
+    },
+    "HEADLINE171": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline"
+    },
+    "HEADLINE172": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline"
+    },
+    "HEADLINE173": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline"
+    },
+    "HEADLINE174": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline"
+    },
+    "HEADLINE175": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline"
+    },
+    "HEADLINE176": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline"
+    },
+    "IMAGE44": {
+        "a": "image",
+        "D": "bounceIn",
+        "A": "1s"
+    },
+    "HEADLINE177": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline"
+    },
+    "HEADLINE178": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline"
+    },
+    "HEADLINE179": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline"
+    },
+    "HEADLINE180": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline"
+    },
+    "BUTTON_TEXT4": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline"
+    },
+    "BUTTON4": {
+        "a": "button",
+        "D": "fadeInUp",
+        "A": "1s"
+    },
+    "FORM_ITEM7": {
+        "a": "form_item",
+        "bS": "text",
+        "bQ": 1
+    },
+    "FORM_ITEM8": {
+        "a": "form_item",
+        "bS": "textarea",
+        "bQ": 4
+    },
+    "FORM_ITEM9": {
+        "a": "form_item",
+        "bS": "select",
+        "bQ": 3
+    },
+    "FORM_ITEM10": {
+        "a": "form_item",
+        "bS": "select",
+        "bQ": 4
+    },
+    "FORM_ITEM11": {
+        "a": "form_item",
+        "bS": "select",
+        "bQ": 5
+    },
+    "FORM3": {
+        "option.dynamic_form_config": "&#123;&#34;configs&#34;:[],&#34;default_actions&#34;:[&#123;&#34;text_thankyou_value&#34;:&#34;Cảm ơn bạn đã quan tâm!&#34;,&#34;type&#34;:&#34;form_open_popup&#34;,&#34;no_delete&#34;:true,&#34;id_open_popup&#34;:&#34;POPUP1&#34;&#125;]&#125;",
+        "a": "form",
+        "bP": "69b793fc6789bb00119b8597",
+        "bM": true,
+        "by": true,
+        "bx": true,
+        "D": "fadeInUp",
+        "A": "1s"
+    },
+    "HEADLINE187": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline"
+    },
+    "GROUP44": {
+        "a": "group",
+        "cs": [
+            {
+                "dr": "action",
+                "dw": "POPUP4",
+                "a": "popup"
+            }
+        ],
+        "D": "fadeInUp",
+        "A": "1s"
+    },
+    "BOX37": {
+        "a": "box",
+        "D": "fadeInUpBig",
+        "A": "1s"
+    },
+    "BOX38": {
+        "a": "box",
+        "D": "fadeInUpBig",
+        "A": "1s"
+    },
+    "BOX39": {
+        "a": "box",
+        "D": "fadeInUpBig",
+        "A": "1s"
+    },
+    "BOX40": {
+        "a": "box",
+        "D": "fadeInUpBig",
+        "A": "1s"
+    },
+    "POPUP4": {
+        "a": "popup",
+        "X": "default",
+        "U": "background-color: rgba(0, 0, 0, 0.5);"
+    },
+    "HEADLINE199": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline"
+    },
+    "HEADLINE200": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline"
+    },
+    "HEADLINE201": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline"
+    },
+    "HEADLINE202": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline",
+        "D": "fadeInUp",
+        "A": "1s"
+    },
+    "BOX44": {
+        "a": "box",
+        "D": "fadeInLeft",
+        "A": "0.5s"
+    },
+    "BOX45": {
+        "a": "box",
+        "D": "fadeInLeft",
+        "A": "0.7s"
+    },
+    "BOX46": {
+        "a": "box",
+        "D": "fadeInLeft",
+        "A": "1s"
+    },
+    "BOX47": {
+        "a": "box",
+        "D": "fadeInLeft",
+        "A": "1s"
+    },
+    "HEADLINE203": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline",
+        "D": "fadeInUp",
+        "A": "1s"
+    },
+    "BOX50": {
+        "a": "box",
+        "D": "fadeInLeft",
+        "A": "1s"
+    },
+    "HEADLINE204": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline",
+        "D": "pulse",
+        "A": "1s"
+    },
+    "HEADLINE206": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline"
+    },
+    "HEADLINE207": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline"
+    },
+    "HEADLINE208": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline"
+    },
+    "HEADLINE209": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline"
+    },
+    "HEADLINE210": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline"
+    },
+    "HEADLINE211": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline"
+    },
+    "HEADLINE212": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline"
+    },
+    "HEADLINE213": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline"
+    },
+    "HEADLINE214": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline"
+    },
+    "HEADLINE215": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline"
+    },
+    "HEADLINE216": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline"
+    },
+    "HEADLINE217": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline"
+    },
+    "HEADLINE218": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline"
+    },
+    "HEADLINE219": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline"
+    },
+    "HEADLINE220": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline"
+    },
+    "HEADLINE221": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline"
+    },
+    "HEADLINE222": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline"
+    },
+    "HEADLINE223": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline"
+    },
+    "HEADLINE224": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline"
+    },
+    "HEADLINE225": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline"
+    },
+    "HEADLINE226": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline"
+    },
+    "HEADLINE227": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline"
+    },
+    "HEADLINE2277": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline"
+    },
+    "HEADLINE228": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline"
+    },
+    "HEADLINE229": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline"
+    },
+    "HEADLINE230": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline"
+    },
+    "HEADLINE231": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline"
+    },
+    "HEADLINE232": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline"
+    },
+    "HEADLINE233": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline"
+    },
+    "HEADLINE234": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline"
+    },
+    "HEADLINE235": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline"
+    },
+    "HEADLINE236": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline"
+    },
+    "HEADLINE237": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline"
+    },
+    "HEADLINE238": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline"
+    },
+    "HEADLINE239": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline"
+    },
+    "HEADLINE240": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline"
+    },
+    "HEADLINE241": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline"
+    },
+    "IMAGE55": {
+        "a": "image",
+        "D": "bounceIn",
+        "A": "1s"
+    },
+    "HEADLINE242": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline",
+        "D": "fadeInUp",
+        "A": "1s"
+    },
+    "HEADLINE243": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline",
+        "D": "fadeInUp",
+        "A": "1s"
+    },
+    "HEADLINE245": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline",
+        "D": "fadeInUp",
+        "A": "1s"
+    },
+    "GROUP77": {
+        "a": "group",
+        "D": "fadeInRight",
+        "A": "1s"
+    },
+    "HEADLINE246": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline",
+        "D": "fadeInUp",
+        "A": "1s"
+    },
+    "HEADLINE248": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline",
+        "D": "fadeInUp",
+        "A": "1s"
+    },
+    "GROUP78": {
+        "a": "group",
+        "D": "fadeInLeft",
+        "A": "1s"
+    },
+    "HEADLINE271": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline"
+    },
+    "HEADLINE270": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline"
+    },
+    "GROUP96": {
+        "a": "group",
+        "D": "fadeInUp",
+        "A": "1s"
+    },
+    "HEADLINE269": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline"
+    },
+    "HEADLINE268": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline"
+    },
+    "GROUP95": {
+        "a": "group",
+        "D": "fadeInUp",
+        "A": "1s"
+    },
+    "HEADLINE258": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline",
+        "D": "fadeInUp",
+        "A": "1s"
+    },
+    "HEADLINE257": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline",
+        "D": "fadeInUp",
+        "A": "1s"
+    },
+    "HEADLINE256": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline",
+        "D": "fadeInUp",
+        "A": "1s"
+    },
+    "HEADLINE255": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline"
+    },
+    "HEADLINE254": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline"
+    },
+    "GROUP88": {
+        "a": "group",
+        "D": "fadeInUp",
+        "A": "1s"
+    },
+    "HEADLINE253": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline"
+    },
+    "GROUP87": {
+        "a": "group",
+        "cs": [
+            {
+                "dr": "action",
+                "dv": "_blank",
+                "dw": "https://maps.app.goo.gl/tqsipZ1Q8e7UrdyQ9?g_st=ic",
+                "a": "link"
+            }
+        ],
+        "D": "pulse",
+        "A": "0s"
+    },
+    "HEADLINE252": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline",
+        "D": "fadeInUp",
+        "A": "1s"
+    },
+    "HEADLINE249": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline",
+        "D": "fadeInUp",
+        "A": "1s"
+    },
+    "HEADLINE304": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline"
+    },
+    "HEADLINE305": {
+        "option.is_product_mapping_name_custom": true,
+        "a": "headline"
+    }
+}
